@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\bin\Debug\net7.0\SimpleDiceGame.exe
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\bin\Debug\net7.0\SimpleDiceGame.deps.json
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\bin\Debug\net7.0\SimpleDiceGame.runtimeconfig.json
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\bin\Debug\net7.0\SimpleDiceGame.dll
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\bin\Debug\net7.0\SimpleDiceGame.pdb
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.AssemblyInfo.cs
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.dll
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\obj\Debug\net7.0\refint\SimpleDiceGame.dll
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.pdb
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.genruntimeconfig.cache
+C:\Users\HP\Desktop\MyCSharpProjects\SimpleDiceGame\obj\Debug\net7.0\ref\SimpleDiceGame.dll
